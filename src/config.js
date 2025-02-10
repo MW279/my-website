@@ -8,9 +8,6 @@ export const metaData = {
 };
 
 export const socialLinks = {
-  twitter: "https://x.com/vikas5914",
-  github: "https://github.com/vikas5914/Astrofolio",
-  instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "mailto:example@gmail.com",
+  linkedin: "https://www.linkedin.com/in/madoc-watson/",
+  email: "mailto:madocwat@terpmail.umd.edu",
 };
