@@ -1,7 +1,7 @@
 export const metaData = {
   baseUrl: "https://astrofolio-astro.vercel.app/",
   title: "Astrofolio",
-  name: "Vikas",
+  name: "Madoc",
   ogImage: "/opengraph-image.png",
   description:
     "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
